@@ -1,0 +1,33 @@
+    ________________________
+    |                      |
+    |   retroalimentacion  |
+    |______________________|
+dato:
+unidad pequeña
+contexto
+recurso(algo valioso)
+
+informacion:
+conjuntos de datos
+cambiante
+pertinente 
+
+Tipo de datos 
+cualitativos -> (caracteres)
+cuantitativo -> (numerico)
+
+situaciones = descripciones
+mensaje es un conjunto de numero letras y simbolos 
+
+respuestas a mis equivocaciones
+___________________________________
+
+8:El nivel Conceptual describe:
+R: Cuáles son los datos que se requieren almacenar en el modelo.
+ya que esta permite realizar los bocetos para almacenar
+
+9:El nivel Físico:
+R:Describe en detalle las estructuras de datos complejas de bajo nivel, 
+describe cómo se almacenan realmente los datos, 
+muestra cómo los datos se encuentran almacenado y permite visualizar 
+las entidades con sus atributos.
